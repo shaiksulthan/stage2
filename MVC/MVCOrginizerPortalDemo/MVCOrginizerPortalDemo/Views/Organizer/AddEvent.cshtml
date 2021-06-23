@@ -1,0 +1,41 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>AddEvent</title>
+</head>
+<body>
+    <div>
+        REGISTER  NEW EVENT
+    </div>
+    <form action="AddEvent" method="post">
+
+        <table border="1">
+            <tr>
+
+                <th>EventName </th>
+                <th>EventDate </th>
+                <th>EventHostName </th>
+                <th>EventLocation </th>
+            </tr>
+
+            <tr>
+
+                <td><input type="text" name="EventName" /> </td>
+                <td><input type="text" name="EventDate" /> </td>
+                <td><input type="text" name="EventHostName" /></td>
+                <td><input type="text" name="EventLocation" /></td>
+            </tr>
+        </table>
+        <input type="submit" value="Registered Event" />
+    </form>
+
+
+</body>
+</html>

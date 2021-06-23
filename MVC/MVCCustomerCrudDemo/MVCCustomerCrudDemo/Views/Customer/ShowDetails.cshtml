@@ -1,0 +1,27 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ShowDetails</title>
+</head>
+<body>
+    <div>
+        <h1>Today's Date : @ViewData["DTime"] </h1>
+        <h2> @ViewBag.CustomerName</h2>
+        <h2> @ViewBag.City</h2>
+
+        <h2>CustomerId :   @ViewData["CustomerId"]</h2>
+        <h2>CustomerName : @ViewBag.CustomerName</h2>
+        <h2>Email : @ViewData["Email"]</h2>
+        <h2>Contact : @ViewData["Contact"]</h2>
+        <h2>City : @ViewData["City"] </h2>
+
+</div>
+</body>
+</html>

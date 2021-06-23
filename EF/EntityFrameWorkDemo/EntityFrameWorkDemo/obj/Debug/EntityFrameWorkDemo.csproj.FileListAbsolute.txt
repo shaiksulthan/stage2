@@ -1,0 +1,12 @@
+C:\Users\Hewlett Packard\source\repos\ADMCTS\EntityFrameWorkDemo\EntityFrameWorkDemo\bin\Debug\EntityFrameWorkDemo.exe.config
+C:\Users\Hewlett Packard\source\repos\ADMCTS\EntityFrameWorkDemo\EntityFrameWorkDemo\bin\Debug\EntityFrameWorkDemo.exe
+C:\Users\Hewlett Packard\source\repos\ADMCTS\EntityFrameWorkDemo\EntityFrameWorkDemo\bin\Debug\EntityFrameWorkDemo.pdb
+C:\Users\Hewlett Packard\source\repos\ADMCTS\EntityFrameWorkDemo\EntityFrameWorkDemo\bin\Debug\EntityFramework.dll
+C:\Users\Hewlett Packard\source\repos\ADMCTS\EntityFrameWorkDemo\EntityFrameWorkDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hewlett Packard\source\repos\ADMCTS\EntityFrameWorkDemo\EntityFrameWorkDemo\bin\Debug\EntityFramework.xml
+C:\Users\Hewlett Packard\source\repos\ADMCTS\EntityFrameWorkDemo\EntityFrameWorkDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hewlett Packard\source\repos\ADMCTS\EntityFrameWorkDemo\EntityFrameWorkDemo\obj\Debug\EntityFrameWorkDemo.csprojAssemblyReference.cache
+C:\Users\Hewlett Packard\source\repos\ADMCTS\EntityFrameWorkDemo\EntityFrameWorkDemo\obj\Debug\EntityFrameWorkDemo.csproj.CoreCompileInputs.cache
+C:\Users\Hewlett Packard\source\repos\ADMCTS\EntityFrameWorkDemo\EntityFrameWorkDemo\obj\Debug\EntityFrameWorkDemo.csproj.CopyComplete
+C:\Users\Hewlett Packard\source\repos\ADMCTS\EntityFrameWorkDemo\EntityFrameWorkDemo\obj\Debug\EntityFrameWorkDemo.exe
+C:\Users\Hewlett Packard\source\repos\ADMCTS\EntityFrameWorkDemo\EntityFrameWorkDemo\obj\Debug\EntityFrameWorkDemo.pdb

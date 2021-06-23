@@ -1,0 +1,44 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/_BeforeLayout.cshtml";
+}
+
+
+@using (Html.BeginForm("Login", "Netizens", FormMethod.Post))
+{<table>
+        <tr>
+            <td>
+                Email :
+                @Html.TextBox("EmailId")
+            </td>
+            <td>
+                Password :
+                @Html.Password("Password")
+            </td>
+            <td>
+                <input type="submit" value="Login" />
+            </td>
+        </tr>
+    </table>
+
+}
+<p style="color:red;font-weight:bold">@ViewData["Valid"]</p>
+
+
+<hr />
+<h2>Signup</h2>
+
+@using (Html.BeginForm("AddUser", "Netizens", FormMethod.Post))
+{
+    <table align="left">
+        <tr><th>Name</th><td>@Html.TextBox("UserName")</td></tr>
+        <tr><th>Password</th><td>@Html.Password("Password")</td></tr>
+        <tr><th>Email</th><td> @Html.TextBox("EmailId")</td></tr>
+        <tr><th>Contact No.</th><td> @Html.TextBox("Contact")</td></tr>
+        <tr><th colspan="2"><input type="submit" value="submit" /></th></tr>
+
+    </table>
+
+}
+

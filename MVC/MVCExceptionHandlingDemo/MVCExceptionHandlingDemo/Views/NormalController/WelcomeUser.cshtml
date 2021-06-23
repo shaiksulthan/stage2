@@ -1,0 +1,22 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>WelcomeUser</title>
+</head>
+<body>
+    <div>
+    </div>
+
+    <h2>Welcome User : @DateTime.Now</h2>
+    <h2> You are the user :  @Session["Greeting"]</h2>
+    <h2>  Your Session ID : @Session.SessionID</h2>
+
+</body>
+</html>

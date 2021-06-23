@@ -1,0 +1,33 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ShowViewData</title>
+</head>
+<body>
+    <div> 
+        <h2>Show current date time :@ViewData["CDATETIME"]</h2>
+        <table border="1">
+            <tr><th>EXPRESSION</th><th>RESULT</th></tr>
+
+
+            @for (int i = 1; i <= 10; i++)
+            {
+<tr><td>2 X @i = </td><td> @(i*2)</td></tr>
+
+            }
+
+
+        </table>
+
+
+
+    </div>
+</body>
+</html>

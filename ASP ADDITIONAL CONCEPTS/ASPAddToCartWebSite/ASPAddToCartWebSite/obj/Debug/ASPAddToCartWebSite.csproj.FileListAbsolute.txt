@@ -1,0 +1,68 @@
+D:\UHG\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\ApplicationInsights.config
+D:\UHG\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\roslyn\csc.exe
+D:\UHG\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\UHG\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\UHG\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\UHG\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\UHG\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\UHG\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\UHG\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\roslyn\System.Collections.Immutable.dll
+D:\UHG\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\roslyn\System.Reflection.Metadata.dll
+D:\UHG\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\roslyn\vbc.exe
+D:\UHG\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\roslyn\VBCSCompiler.exe
+D:\UHG\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\roslyn\VBCSCompiler.exe.config
+D:\UHG\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\ASPAddToCartWebSite.dll.config
+D:\UHG\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\ASPAddToCartWebSite.dll
+D:\UHG\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\ASPAddToCartWebSite.pdb
+D:\UHG\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\Microsoft.AI.Agent.Intercept.dll
+D:\UHG\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\Microsoft.AI.DependencyCollector.dll
+D:\UHG\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\UHG\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\UHG\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\Microsoft.AI.Web.dll
+D:\UHG\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\Microsoft.AI.WindowsServer.dll
+D:\UHG\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\Microsoft.ApplicationInsights.dll
+D:\UHG\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\UHG\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\Microsoft.AI.DependencyCollector.xml
+D:\UHG\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\UHG\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\Microsoft.AI.Web.xml
+D:\UHG\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\Microsoft.AI.WindowsServer.xml
+D:\UHG\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\Microsoft.ApplicationInsights.xml
+D:\UHG\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\UHG\ASPAddToCartWebSite\ASPAddToCartWebSite\obj\Debug\ASPAddToCartWebSite.csprojResolveAssemblyReference.cache
+D:\UHG\ASPAddToCartWebSite\ASPAddToCartWebSite\obj\Debug\ASPAddToCartWebSite.dll
+D:\UHG\ASPAddToCartWebSite\ASPAddToCartWebSite\obj\Debug\ASPAddToCartWebSite.pdb
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\ApplicationInsights.config
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\roslyn\csc.exe
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\roslyn\System.Collections.Immutable.dll
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\roslyn\System.Reflection.Metadata.dll
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\roslyn\vbc.exe
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\roslyn\VBCSCompiler.exe
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\roslyn\VBCSCompiler.exe.config
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\ASPAddToCartWebSite.dll.config
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\ASPAddToCartWebSite.dll
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\ASPAddToCartWebSite.pdb
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\Microsoft.AI.Agent.Intercept.dll
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\Microsoft.AI.DependencyCollector.dll
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\Microsoft.AI.Web.dll
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\Microsoft.AI.WindowsServer.dll
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\Microsoft.ApplicationInsights.dll
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\Microsoft.AI.DependencyCollector.xml
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\Microsoft.AI.Web.xml
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\Microsoft.AI.WindowsServer.xml
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\Microsoft.ApplicationInsights.xml
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPAddToCartWebSite\ASPAddToCartWebSite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPAddToCartWebSite\ASPAddToCartWebSite\obj\Debug\ASPAddToCartWebSite.csprojAssemblyReference.cache
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPAddToCartWebSite\ASPAddToCartWebSite\obj\Debug\ASPAddToCartWebSite.csproj.CoreCompileInputs.cache
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPAddToCartWebSite\ASPAddToCartWebSite\obj\Debug\ASPAddToCartWebSite.csproj.CopyComplete
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPAddToCartWebSite\ASPAddToCartWebSite\obj\Debug\ASPAddToCartWebSite.dll
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPAddToCartWebSite\ASPAddToCartWebSite\obj\Debug\ASPAddToCartWebSite.pdb

@@ -1,0 +1,68 @@
+D:\UHG\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\ApplicationInsights.config
+D:\UHG\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\roslyn\csc.exe
+D:\UHG\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\UHG\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\UHG\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\UHG\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\UHG\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\UHG\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\UHG\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\roslyn\System.Collections.Immutable.dll
+D:\UHG\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\roslyn\System.Reflection.Metadata.dll
+D:\UHG\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\roslyn\vbc.exe
+D:\UHG\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\roslyn\VBCSCompiler.exe
+D:\UHG\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\roslyn\VBCSCompiler.exe.config
+D:\UHG\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\ASPValidationAndCompleteWebsiteDemo.dll
+D:\UHG\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\ASPValidationAndCompleteWebsiteDemo.pdb
+D:\UHG\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\Microsoft.AI.Agent.Intercept.dll
+D:\UHG\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\Microsoft.AI.DependencyCollector.dll
+D:\UHG\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\UHG\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\UHG\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\Microsoft.AI.Web.dll
+D:\UHG\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\Microsoft.AI.WindowsServer.dll
+D:\UHG\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\Microsoft.ApplicationInsights.dll
+D:\UHG\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\UHG\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\Microsoft.AI.DependencyCollector.xml
+D:\UHG\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\UHG\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\Microsoft.AI.Web.xml
+D:\UHG\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\Microsoft.AI.WindowsServer.xml
+D:\UHG\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\Microsoft.ApplicationInsights.xml
+D:\UHG\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\UHG\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\obj\Debug\ASPValidationAndCompleteWebsiteDemo.csprojResolveAssemblyReference.cache
+D:\UHG\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\obj\Debug\ASPValidationAndCompleteWebsiteDemo.dll
+D:\UHG\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\obj\Debug\ASPValidationAndCompleteWebsiteDemo.pdb
+D:\UHG\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\ASPValidationAndCompleteWebsiteDemo.dll.config
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\ApplicationInsights.config
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\roslyn\csc.exe
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\roslyn\System.Collections.Immutable.dll
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\roslyn\System.Reflection.Metadata.dll
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\roslyn\vbc.exe
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\roslyn\VBCSCompiler.exe
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\roslyn\VBCSCompiler.exe.config
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\ASPValidationAndCompleteWebsiteDemo.dll.config
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\ASPValidationAndCompleteWebsiteDemo.dll
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\ASPValidationAndCompleteWebsiteDemo.pdb
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\Microsoft.AI.Agent.Intercept.dll
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\Microsoft.AI.DependencyCollector.dll
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\Microsoft.AI.Web.dll
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\Microsoft.AI.WindowsServer.dll
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\Microsoft.ApplicationInsights.dll
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\Microsoft.AI.DependencyCollector.xml
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\Microsoft.AI.Web.xml
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\Microsoft.AI.WindowsServer.xml
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\Microsoft.ApplicationInsights.xml
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\obj\Debug\ASPValidationAndCompleteWebsiteDemo.csprojAssemblyReference.cache
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\obj\Debug\ASPValidationAndCompleteWebsiteDemo.csproj.CoreCompileInputs.cache
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\obj\Debug\ASPValidationAndCompleteWebsiteDemo.csproj.CopyComplete
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\obj\Debug\ASPValidationAndCompleteWebsiteDemo.dll
+E:\CTS FSE CODE ADM20DF001\STAGE 2\ASP ADDITIONAL CONCEPTS\ASPValidationAndCompleteWebsiteDemo\ASPValidationAndCompleteWebsiteDemo\obj\Debug\ASPValidationAndCompleteWebsiteDemo.pdb

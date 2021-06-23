@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstWebsiteToHostOnISSServer", "MyFirstWebsiteToHostOnISSServer\MyFirstWebsiteToHostOnISSServer.csproj", "{778EA748-389D-4B27-81F3-439721C6327F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{778EA748-389D-4B27-81F3-439721C6327F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{778EA748-389D-4B27-81F3-439721C6327F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{778EA748-389D-4B27-81F3-439721C6327F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{778EA748-389D-4B27-81F3-439721C6327F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6B30CAA-0F07-49CC-A31D-49C2B16F1E0F}
+	EndGlobalSection
+EndGlobal

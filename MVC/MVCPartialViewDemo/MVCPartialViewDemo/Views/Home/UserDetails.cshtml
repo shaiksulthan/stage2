@@ -1,0 +1,31 @@
+﻿@model IEnumerable<MVCPartialViewDemo.Models.NetizensUser>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>UserDetails</title>
+</head>
+<body>
+    <div>
+        <h2>Hello Users</h2>
+        <table align="left">
+            @foreach (var item in Model)
+            {
+               
+                @Html.Partial("User", item);
+                @*<tr><th>User ID</th><td>@item.UserId</td></tr>
+                <tr><th>Name</th><td>@item.UserName</td></tr>
+                <tr><th>Email</th><td>@item.EmailId</td></tr>
+                <tr><th>Contact No.</th><td>@item.Contact</td></tr>*@
+            }
+
+        </table>
+    </div>
+</body>
+</html>

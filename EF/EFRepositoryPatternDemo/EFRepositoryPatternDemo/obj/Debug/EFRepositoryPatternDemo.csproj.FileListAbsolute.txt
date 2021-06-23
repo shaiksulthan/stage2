@@ -1,0 +1,14 @@
+C:\Users\Hewlett Packard\source\repos\ADMCTS\EFRepositoryPatternDemo\EFRepositoryPatternDemo\bin\Debug\EFRepositoryPatternDemo.exe.config
+C:\Users\Hewlett Packard\source\repos\ADMCTS\EFRepositoryPatternDemo\EFRepositoryPatternDemo\bin\Debug\EFRepositoryPatternDemo.exe
+C:\Users\Hewlett Packard\source\repos\ADMCTS\EFRepositoryPatternDemo\EFRepositoryPatternDemo\bin\Debug\EFRepositoryPatternDemo.pdb
+C:\Users\Hewlett Packard\source\repos\ADMCTS\EFRepositoryPatternDemo\EFRepositoryPatternDemo\bin\Debug\EntityFramework.dll
+C:\Users\Hewlett Packard\source\repos\ADMCTS\EFRepositoryPatternDemo\EFRepositoryPatternDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hewlett Packard\source\repos\ADMCTS\EFRepositoryPatternDemo\EFRepositoryPatternDemo\bin\Debug\EntityFramework.xml
+C:\Users\Hewlett Packard\source\repos\ADMCTS\EFRepositoryPatternDemo\EFRepositoryPatternDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hewlett Packard\source\repos\ADMCTS\EFRepositoryPatternDemo\EFRepositoryPatternDemo\obj\Debug\EFRepositoryPatternDemo.csprojAssemblyReference.cache
+C:\Users\Hewlett Packard\source\repos\ADMCTS\EFRepositoryPatternDemo\EFRepositoryPatternDemo\obj\Debug\EFRepositoryPatternDemo.csproj.CoreCompileInputs.cache
+C:\Users\Hewlett Packard\source\repos\ADMCTS\EFRepositoryPatternDemo\EFRepositoryPatternDemo\obj\Debug\EFRepositoryPatternDemo.csproj.CopyComplete
+C:\Users\Hewlett Packard\source\repos\ADMCTS\EFRepositoryPatternDemo\EFRepositoryPatternDemo\obj\Debug\EFRepositoryPatternDemo.exe
+C:\Users\Hewlett Packard\source\repos\ADMCTS\EFRepositoryPatternDemo\EFRepositoryPatternDemo\obj\Debug\EFRepositoryPatternDemo.pdb
+C:\Users\Hewlett Packard\source\repos\ADMCTS\EFRepositoryPatternDemo\EFRepositoryPatternDemo\obj\Debug\EFRepositoryPatternDemo.Migrations.InitializeDatabase.resources
+C:\Users\Hewlett Packard\source\repos\ADMCTS\EFRepositoryPatternDemo\EFRepositoryPatternDemo\obj\Debug\EFRepositoryPatternDemo.csproj.GenerateResource.cache

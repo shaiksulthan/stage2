@@ -1,0 +1,42 @@
+﻿@model MVCOrginizerPortalDemo.Models.ClsOrganizer
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>EditEvent</title>
+</head>
+<body>
+    <div>
+        EDIT EVENT DETAILS
+    </div>
+    <form action="EditEvent" method="post">
+
+        <table border="1">
+            <tr>
+
+                <th>EventName </th>
+                <th>EventDate </th>
+                <th>EventHostName </th>
+                <th>EventLocation </th>
+            </tr>
+
+            <tr>
+                
+                <td><input type="hidden" name="EventID" value="@Model.EventID"/><input type="text" name="EventName" value="@Model.EventName" /> </td>
+                <td><input type="text" name="EventDate" value="@Model.EventDate"/> </td>
+                <td><input type="text" name="EventHostName" value="@Model.EventHostName"/></td>
+                <td><input type="text" name="EventLocation" value="@Model.EventLocation"/></td>
+            </tr>
+        </table>
+        <input type="submit" value="Update Event" />
+    </form>
+
+
+</body>
+</html>

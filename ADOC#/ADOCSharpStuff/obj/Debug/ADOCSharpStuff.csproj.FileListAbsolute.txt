@@ -1,0 +1,7 @@
+C:\Users\Hewlett Packard\source\repos\ADMCTS\ADOCSharpStuff\ADOCSharpStuff\bin\Debug\ADOCSharpStuff.exe.config
+C:\Users\Hewlett Packard\source\repos\ADMCTS\ADOCSharpStuff\ADOCSharpStuff\bin\Debug\ADOCSharpStuff.exe
+C:\Users\Hewlett Packard\source\repos\ADMCTS\ADOCSharpStuff\ADOCSharpStuff\bin\Debug\ADOCSharpStuff.pdb
+C:\Users\Hewlett Packard\source\repos\ADMCTS\ADOCSharpStuff\ADOCSharpStuff\obj\Debug\ADOCSharpStuff.csprojAssemblyReference.cache
+C:\Users\Hewlett Packard\source\repos\ADMCTS\ADOCSharpStuff\ADOCSharpStuff\obj\Debug\ADOCSharpStuff.csproj.CoreCompileInputs.cache
+C:\Users\Hewlett Packard\source\repos\ADMCTS\ADOCSharpStuff\ADOCSharpStuff\obj\Debug\ADOCSharpStuff.exe
+C:\Users\Hewlett Packard\source\repos\ADMCTS\ADOCSharpStuff\ADOCSharpStuff\obj\Debug\ADOCSharpStuff.pdb

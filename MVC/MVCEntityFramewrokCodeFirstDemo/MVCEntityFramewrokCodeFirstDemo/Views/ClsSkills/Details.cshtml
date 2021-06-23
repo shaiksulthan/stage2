@@ -1,0 +1,50 @@
+﻿@model MVCEntityFramewrokCodeFirstDemo.Models.ClsSkill
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>ClsSkill</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.ClsEmployee.FirstName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ClsEmployee.FirstName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SkillName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SkillName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Role)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Role)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ExperienceInYears)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ExperienceInYears)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.SkillId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

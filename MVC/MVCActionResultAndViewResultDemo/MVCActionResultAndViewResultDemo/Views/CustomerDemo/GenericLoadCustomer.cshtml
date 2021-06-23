@@ -1,0 +1,50 @@
+﻿@model MVCActionResultAndViewResultDemo.Models.ClsCustomer
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>GenericLoadCustomer</title>
+</head>
+<body>
+    <div>
+        <h4>ClsCustomer</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.CustCode)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.CustCode)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.CustName)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.CustName)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.CustAmount)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.CustAmount)
+            </dd>
+    
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+</body>
+</html>

@@ -1,0 +1,15 @@
+C:\Users\Hewlett Packard\source\repos\ADMCTS\EFFluentAPIDemo\EFFluentAPIDemo\bin\Debug\EFFluentAPIDemo.exe.config
+C:\Users\Hewlett Packard\source\repos\ADMCTS\EFFluentAPIDemo\EFFluentAPIDemo\bin\Debug\EFFluentAPIDemo.exe
+C:\Users\Hewlett Packard\source\repos\ADMCTS\EFFluentAPIDemo\EFFluentAPIDemo\bin\Debug\EFFluentAPIDemo.pdb
+C:\Users\Hewlett Packard\source\repos\ADMCTS\EFFluentAPIDemo\EFFluentAPIDemo\bin\Debug\EntityFramework.dll
+C:\Users\Hewlett Packard\source\repos\ADMCTS\EFFluentAPIDemo\EFFluentAPIDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hewlett Packard\source\repos\ADMCTS\EFFluentAPIDemo\EFFluentAPIDemo\bin\Debug\EntityFramework.xml
+C:\Users\Hewlett Packard\source\repos\ADMCTS\EFFluentAPIDemo\EFFluentAPIDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hewlett Packard\source\repos\ADMCTS\EFFluentAPIDemo\EFFluentAPIDemo\obj\Debug\EFFluentAPIDemo.csproj.CoreCompileInputs.cache
+C:\Users\Hewlett Packard\source\repos\ADMCTS\EFFluentAPIDemo\EFFluentAPIDemo\obj\Debug\EFFluentAPIDemo.csproj.CopyComplete
+C:\Users\Hewlett Packard\source\repos\ADMCTS\EFFluentAPIDemo\EFFluentAPIDemo\obj\Debug\EFFluentAPIDemo.exe
+C:\Users\Hewlett Packard\source\repos\ADMCTS\EFFluentAPIDemo\EFFluentAPIDemo\obj\Debug\EFFluentAPIDemo.pdb
+C:\Users\Hewlett Packard\source\repos\ADMCTS\EFFluentAPIDemo\EFFluentAPIDemo\obj\Debug\EFFluentAPIDemo.Migrations.INITIALIZEDATABASE.resources
+C:\Users\Hewlett Packard\source\repos\ADMCTS\EFFluentAPIDemo\EFFluentAPIDemo\obj\Debug\EFFluentAPIDemo.csproj.GenerateResource.cache
+C:\Users\Hewlett Packard\source\repos\ADMCTS\EFFluentAPIDemo\EFFluentAPIDemo\obj\Debug\EFFluentAPIDemo.csprojAssemblyReference.cache
+C:\Users\Hewlett Packard\source\repos\ADMCTS\EFFluentAPIDemo\EFFluentAPIDemo\obj\Debug\EFFluentAPIDemo.Migrations.INITIALIZEDATABASE2.resources

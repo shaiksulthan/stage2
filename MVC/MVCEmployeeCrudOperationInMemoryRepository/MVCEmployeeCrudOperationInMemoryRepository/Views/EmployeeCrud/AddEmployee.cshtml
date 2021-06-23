@@ -1,0 +1,35 @@
+﻿@model MVCEmployeeCrudOperationInMemoryRepository.Models.Employee
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>AddEmployee</title>
+</head>
+<body>
+    <div style="font:100;color:blue;background-color:azure">
+        ADD NEW EMPLOYEE
+    </div>
+    @using (Html.BeginForm("AddEmployee", "EmployeeCrud", FormMethod.Post))
+    {
+        @Html.ActionLink("Index", "Index")
+        @*<p>Enter EMPId</p>
+        @Html.TextBox("EMPID")*@
+        <p>Enter Employee Name</p>
+        @Html.TextBox("EMPNAME")
+        <p>Enter Employee DOJ eg: dd/MM/yyyy</p>
+        @Html.TextBox("DOJ")
+        <p>Enter Employee Department Name</p>
+        @Html.TextBox("DEPTNAME")
+        <p>Enter Employee Department Location</p>
+        @Html.TextBox("DEPTLOCATION")
+        <br />
+        <input type="submit" value="submit" />
+    }
+</body>
+</html>

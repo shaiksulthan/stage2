@@ -1,0 +1,25 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ConsumeEmployee</title>
+    <script src="~/Scripts/jquery-3.5.1.min.js"></script>
+</head>
+<body>
+    <div>
+        <script type="text/javascript">
+            $.get("http://localhost:55220/CustomerDemo/LoadCustomerJson",
+                null, CallBack);
+            function CallBack(Data) {
+                alert(Data.CustCode + " " + Data.CustName + " " + Data.CustAmount);
+            }
+        </script>
+    </div>
+</body>
+</html>

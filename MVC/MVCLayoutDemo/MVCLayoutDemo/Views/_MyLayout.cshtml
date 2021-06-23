@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>@Page.Title</title>
+    @RenderSection("head", required: false)
+</head>
+<body>
+         <table border="1">
+            <tr>
+                <td colspan="2" style="text-align:center;background-color:cadetblue;color:white">
+                    <h2>WEBSITE HEADER</h2>
+                </td>
+            </tr>
+            <tr>
+                <td style="width:200px">
+                    <h2>MENU</h2>
+                </td>
+                <td style="width:600px">
+                    @RenderBody()
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" style="text-align:center;font-size:small">
+                    <h2>WEBSITE FOOTER</h2>
+                </td>
+            </tr>
+        </table>
+    </body>
+
+
+</html>

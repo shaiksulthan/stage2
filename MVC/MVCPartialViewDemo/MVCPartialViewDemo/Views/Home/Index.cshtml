@@ -1,0 +1,30 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+
+    <div id="HeaderView">
+        @{ Html.RenderPartial("_Header");}
+
+    </div>
+    <h2>Introduction to MVC Partial View</h2>
+    <p>
+        Partial view in ASP.NET MVC is special view which renders a portion of view content. It is just like a user control of a web form application. Partial can be reusable in multiple views. It helps us to reduce code duplication. In other word a partial view enables us to render a view within the parent view.
+    </p>
+    <p>
+        The partial view is instantiated with its own copy of a ViewDataDictionary object which is available with the parent view so that partial view can access the data of the parent view. If we made the change in this data (ViewDataDictionary object), the parent view's data is not affected. Generally the Partial rendering method of the view is used when related data that we want to render in a partial view is part of our model.
+    </p>
+    <div id="FooterView">
+        @{ Html.RenderPartial("_FOOTER");}
+    </div>
+</body>
+</html>

@@ -1,0 +1,49 @@
+﻿@model IEnumerable<MVCOrginizerPortalDemo.Models.ClsOrganizer>
+
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    
+    <h1><a  href="/Organizer/AddEvent">REGISTER NEW EVENT</a></h1>
+    <div>
+        LIST OF EVENTS DETAILS
+
+    </div>
+    <table border="1">
+        <tr>
+            <th>EventID </th>
+            <th>EventName </th>
+            <th>EventDate </th>
+            <th>EventHostName </th>
+            <th>EventLocation </th>
+        </tr>
+        @foreach (var item in Model)
+        {
+    <tr>
+        <td>@item.EventID </td>
+        <td>@item.EventName </td>
+        <td>@item.EventDate </td>
+        <td>@item.EventHostName</td>
+        <td>@item.EventLocation</td>
+        <td><a href="/Organizer/EditEvent/@item.EventID">Edit</a></td>
+        <td><a href="/Organizer/DeleteEvent/@item.EventID">Delete</a></td>
+    </tr>
+        }
+
+
+    </table>
+
+
+
+</body>
+</html>
